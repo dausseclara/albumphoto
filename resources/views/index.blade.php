@@ -2,6 +2,6 @@
 
 @section("content")
 
-<h1> coucou </h1>
+<h1> coucou album photo </h1>
 
 @endsection
